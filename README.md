@@ -1,6 +1,6 @@
-# Gastric Cancer Detection using Ensemble Deep Learning Models
+# Gastric Cancer Detection with Ensemble Learning on Digital Pathology: Use Case of Gastric Cancer on GasHisSDB Dataset
 
-This repository contains the source code and trained models for detecting **Gastric Cancer** using **Ensemble Deep Learning Models**. The work is based on transfer learning techniques and ensemble approaches, leveraging pre-trained architectures like **Ensemble** , **ResNet50**, **VGGNet16**, and **ResNet34** and **EfficientNet** and ** VitNet** model to achieve superior performance in classifying histopathological images of gastric cancer.
+## Link for Research Paper: https://www.mdpi.com/2075-4418/14/16/1746
 
 ## Abstract
 Gastric cancer is one of the deadliest cancers worldwide, and early detection through histopathological imaging can significantly improve patient outcomes. This project builds a robust deep learning ensemble model to assist in the detection of gastric cancer. By combining the strengths of multiple convolutional neural networks (CNNs) including **ResNet50**, **VGGNet16**, and **ResNet34**, high classification accuracy is achieved. The models were trained on the publicly available **Gastric Histopathology Sub-size Image Database (GasHisSDB)**, which contains images at various resolutions, ranging from 80x80 to 160x160 pixels.
